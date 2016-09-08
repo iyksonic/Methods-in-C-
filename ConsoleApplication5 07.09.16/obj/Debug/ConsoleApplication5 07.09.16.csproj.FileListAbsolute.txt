@@ -1,0 +1,6 @@
+c:\users\ndukwe ikedieze\documents\visual studio 2015\Projects\ConsoleApplication5 07.09.16\ConsoleApplication5 07.09.16\bin\Debug\ConsoleApplication5 07.09.16.exe.config
+c:\users\ndukwe ikedieze\documents\visual studio 2015\Projects\ConsoleApplication5 07.09.16\ConsoleApplication5 07.09.16\obj\Debug\ConsoleApplication5 07.09.16.csprojResolveAssemblyReference.cache
+c:\users\ndukwe ikedieze\documents\visual studio 2015\Projects\ConsoleApplication5 07.09.16\ConsoleApplication5 07.09.16\bin\Debug\ConsoleApplication5 07.09.16.exe
+c:\users\ndukwe ikedieze\documents\visual studio 2015\Projects\ConsoleApplication5 07.09.16\ConsoleApplication5 07.09.16\bin\Debug\ConsoleApplication5 07.09.16.pdb
+c:\users\ndukwe ikedieze\documents\visual studio 2015\Projects\ConsoleApplication5 07.09.16\ConsoleApplication5 07.09.16\obj\Debug\ConsoleApplication5 07.09.16.exe
+c:\users\ndukwe ikedieze\documents\visual studio 2015\Projects\ConsoleApplication5 07.09.16\ConsoleApplication5 07.09.16\obj\Debug\ConsoleApplication5 07.09.16.pdb
